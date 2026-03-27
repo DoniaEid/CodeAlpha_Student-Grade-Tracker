@@ -1,4 +1,3 @@
-# CodeAlpha_Student-Grade-Tracker
 Student Grade Tracker 🎓
 A simple and efficient Java application designed to help teachers and students manage academic performance. This tool allows users to input student grades and automatically calculates essential statistics.
 
